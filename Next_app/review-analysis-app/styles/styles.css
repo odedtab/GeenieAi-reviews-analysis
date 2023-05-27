@@ -1,0 +1,57 @@
+.container {
+  background-color: #1d1c27;
+  padding: 20px;
+}
+
+.orangeButton {
+  background-color: orange;
+  color: white;
+}
+
+.inputContainer {
+  margin-bottom: 10px;
+}
+
+.fileInputLabel {
+  background-color: orange;
+  color: white;
+  padding: 10px;
+  cursor: pointer;
+}
+
+.uploadedFilesContainer {
+  margin-bottom: 20px;
+}
+
+.uploadedFile {
+  display: flex;
+  align-items: center;
+  margin-bottom: 5px;
+}
+
+.removeButton {
+  margin-left: 10px;
+  background-color: orange;
+  color: white;
+}
+
+.buttonContainer {
+  margin-bottom: 10px;
+}
+
+.uploadButton {
+  background-color: orange;
+  color: white;
+}
+
+.resultContainer {
+  margin-bottom: 20px;
+}
+
+p {
+  margin: 0;
+}
+
+pre {
+  white-space: pre-wrap;
+}
